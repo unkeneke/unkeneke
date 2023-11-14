@@ -5,8 +5,8 @@ I love programming.
 ----------------------------------
 
 *   🌍  I'm based in Montreal
-*   🤝  I'm open to collaborating on Java, Vue.js, React, and Unreal Engine
-*   ⚡  I have a deep passion for game development and design, hit me up if you need an extra hand with gameplay, graphics, and general game programming!
+*   🤝  I have 15 years of professional experience on back-end and front-end development. I'm open to collaborating on Vue.js/React and Java projects
+*   ⚡  I have a deep passion for game development, hit me up if you need an extra hand with gameplay, graphics, and general UE5 game programming as well!
   
 
 ### Skills 
