@@ -5,7 +5,6 @@ I love programming.
 ----------------------------------
 
 *   🌍  I'm based in Montreal
-*   ✉️  You can contact me at [](mailto:)
 *   🤝  I'm open to collaborating on Java, Vue.js, React, and Unreal Engine
 *   ⚡  I have a deep passion for game development and design, hit me up if you need an extra hand with gameplay, graphics, and general game programming!
   
