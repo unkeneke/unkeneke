@@ -6,8 +6,9 @@ I love programming.
 
 *   🌍  I'm based in Montreal
 *   🔥  I have 15 years of professional experience on back-end and front-end development
-*   🤝  I'm open to collaborating on Vue.js/React and Java projects
-*   ⚡  I have a deep passion for game development, hit me up if you need an extra hand with gameplay, graphics, and general UE5 game programming as well!
+*   ✉️  You can contact me at [unkeneke@gmail.com](mailto:unkeneke@gmail.com)
+*   🤝  I'm open to collaborating on Vue.js/React, Java, and Unreal Engine projects
+*   ⚡  I have a deep passion for game development, hit me up if you need an extra hand with gameplay, graphics, and general game programming as well!
   
 
 ### Skills 
