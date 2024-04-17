@@ -1,11 +1,12 @@
 Hi 👋 My name is Esteban
 ===============================
 
+
 *   🌍  I'm based in Montreal
 *   🔥  I have over 15 years of professional experience on back-end and front-end development
-*   ✉️  You can contact me at [unkeneke@gmail.com](mailto:unkeneke@gmail.com)
 *   🤝  I'm open to collaborating on Vue.js/React, Java, and Unreal Engine projects
 *   ⚡  I have a deep passion for game development, hit me up if you need an extra hand with gameplay, graphics, and general game programming as well!
+*   ✉️  You can contact me at [unkeneke@gmail.com](mailto:unkeneke@gmail.com)
   
 
 ### Skills 
