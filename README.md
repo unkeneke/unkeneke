@@ -19,5 +19,4 @@ Hi 👋 My name is Esteban
 
 
 
-![THRILLKINGS](https://raw.githubusercontent.com/unkeneke/unkeneke/main/images/thrillkings-small.gif)
 <p align="left"><img src="https://raw.githubusercontent.com/unkeneke/unkeneke/main/images/thrillkings-small.gif"/></p>
