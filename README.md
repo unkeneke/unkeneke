@@ -19,4 +19,4 @@ Hi 👋 My name is Esteban
 
 
 
-<p align="left"><video src="images/thrillkings.mp4"/></p>
+<p align="left"><img src="images/thrillkings.gif"/></p>
